@@ -5,7 +5,7 @@ const polygonUrl = "https://polygon-rpc.com";
 const HDWalletProvider = require("@truffle/hdwallet-provider");
 const DAI_ABI = require('./DAI_ABI.json');
 const rpcUrl = polygonUrl;
-const kevinsPolygonAddress = "0xe8a59f004D2A14B3c6Fd2dF93c1B609DdbDA9813";
+const kevinsPolygonAddress = "";
 
 
 
