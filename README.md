@@ -1,2 +1,2 @@
 
-Burbon.js is a library for sending crypto from a customer to a depositor using stablecoins
+Burbon.js is a library for sending payment from a sender to a reciever using the DAI stablecoin
