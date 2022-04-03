@@ -142,8 +142,8 @@ const  burbonToDai = {
 // function getAddress();
 
 // Execution
-
-
+// Public Mnemonic, this is obviously no bueno to use in production "solid arrest rookie elder punch stereo human host possible also object cook"
+// This is also the account showing proof of successful execution.
 // Create/setup accounts
 
 burbonToDai.createOrImportAWallet("solid arrest rookie elder punch stereo human host possible also object cook").then(()=> {
